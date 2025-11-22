@@ -24,11 +24,6 @@ export default function RootLayout({
         refetchOnMount: false,
       },
     },
-    logger: {
-      log: () => {},
-      warn: () => {},
-      error: () => {},
-    },
   }))
 
   const [walletAddress, setWalletAddress] = useState<string | null>(null)

@@ -1,7 +1,6 @@
 'use client'
 
 import './globals.css'
-import './suppress-warnings'
 import { Inter } from 'next/font/google'
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query'
 import { Toaster } from 'react-hot-toast'
@@ -146,7 +145,7 @@ export default function RootLayout({
                   </div>
                 </div>
                 <div className="border-t border-slate-800 mt-8 pt-8 text-center text-slate-400 text-sm">
-                  <p>© 2024 DeFi Risk Intelligence. All rights reserved.</p>
+                  <p>© 2025 DeFi Risk Intelligence. All rights reserved.</p>
                 </div>
               </div>
             </footer>

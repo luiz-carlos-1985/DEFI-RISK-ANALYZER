@@ -53,7 +53,7 @@ export default function AboutPage() {
           <h2 className="text-4xl font-bold text-white mb-6">Our Story</h2>
           <div className="space-y-4 text-slate-300 leading-relaxed">
             <p>
-              Founded in 2024 by former engineers from Google, Coinbase, and Chainalysis, DeFi Risk Analyzer emerged from a critical need: the lack of institutional-grade risk analysis tools in DeFi.
+              Founded in 2025 by former engineers from Google, Coinbase, and Chainalysis, DeFi Risk Analyzer emerged from a critical need: the lack of institutional-grade risk analysis tools in DeFi.
             </p>
             <p>
               After witnessing $2.3B lost to DeFi exploits in 2023, our founders built an AI-powered platform that analyzes 500+ risk factors across 20+ blockchains in real-time.
